@@ -1,0 +1,1 @@
+qjs-windows-x86_64.exe --std --include clojurescript/out/goog/base.js --include clojurescript/out/main.js --include bootstrap.js --include clojurescript/out/cljs/js.js
